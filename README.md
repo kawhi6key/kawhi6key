@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Hiroki Kawamitsu</h1>
+<h3 align="center">I'm a Japanese who is studying programming.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawhi6key&label=Profile%20views&color=0e75b6&style=flat" alt="kawhi6key" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kawhi6key" alt="kawhi6key" /></a> </p>
+
+- 🔭 I’m currently working on [オンライン市役所ZOOM発行プロジェクト](https://github.com/OCH-zoomPJ)
+
+- 🌱 I’m currently learning **Python**
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawhi6key&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kawhi6key&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
@@ -11,16 +22,7 @@
 [![](https://raw.githubusercontent.com/kawhi6key/kawhi6key/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kawhi6key/kawhi6key/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kawhi6key/kawhi6key/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kawhi6key/kawhi6key/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<h1 align="center">Hi 👋, I'm Hiroki Kawamitsu</h1>
-<h3 align="center">I'm a Japanese who is studying programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawhi6key&label=Profile%20views&color=0e75b6&style=flat" alt="kawhi6key" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kawhi6key" alt="kawhi6key" /></a> </p>
-
-- 🔭 I’m currently working on [オンライン市役所ZOOM発行プロジェクト](https://github.com/OCH-zoomPJ)
-
-- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
