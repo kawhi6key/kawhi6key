@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Hiroki Kawamitsu</h1>
-<h3 align="center">I'm a Japanese who is studying programming.</h3>
-
-- 🔭 I’m currently working on [オンライン市役所ZOOM発行プロジェクト](https://github.com/OCH-zoomPJ)
-
-- 🌱 I’m currently learning **Python**
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawhi6key&layout=compact&count_private=true&show_icons=true&theme=dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kawhi6key&count_private=true&show_icons=true&show_icons=true&theme=dark" />
